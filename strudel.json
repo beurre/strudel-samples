@@ -1,0 +1,6 @@
+{
+    "_base": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/master/",
+    "bd": ["strudel_test_drums_bd.wav"],
+    "sd": ["strudel_test_drums_sd.wav"],
+    "hh": ["strudel_test_drums_hh.wav"],
+}
